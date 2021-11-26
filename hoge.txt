@@ -1,0 +1,2 @@
+This is a first commit.
+日本語でも良いです。
